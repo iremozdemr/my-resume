@@ -1,0 +1,71 @@
+body{
+    display: block;
+    color: #E3E1E5ff;
+    font-family: 'Black Ops One', cursive;
+}
+
+.maindiv{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif);
+    background-size: cover;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.photoimg{
+    display: inline;
+    width: 650px;
+    border: 1px solid #2b2839;
+    border-radius: 40px;
+
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+.textdiv{
+    display: inline;
+
+    margin-top: 200px;
+}
+
+.name1div{
+    text-shadow: 5px 5px #5175A2ff;
+}
+
+.name2div{
+    text-shadow: 0px 0px 5px black;
+    font-style: italic;
+}
+
+.menu{
+    display: flexbox;
+    text-align: left;
+    font-size: 30px;
+
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+/*
+.line{
+    display: inline;
+    height: 20px;
+    width: 0px;
+    border: 1px solid black;
+}
+*/
+
+a:link,:visited{
+    color: #5175A2ff;
+}
+
+/*
+--platinum: #E3E1E5ff;
+--lavender-blush: #F4E7E7ff;
+--cool-gray: #9998B0ff;
+--glaucous: #5175A2ff;
+*/
