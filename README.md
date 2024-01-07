@@ -8,7 +8,7 @@ This project is built using HTML, CSS, and possibly other technologies/framework
 
 ## Website Preview
 
-![My Resume Preview](insert-image-url-here-if-available)
+![My Resume Preview](website-preview.png)
 
 ## How to Use
 
