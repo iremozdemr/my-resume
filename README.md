@@ -1,48 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+# My Resume
 
-<head>
-    <meta charset="UTF-8">
-    <title>My Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-        }
+This repository contains the code for my personal resume website. The website is deployed and can be viewed [here](https://my-resume-seven-neon.vercel.app).
 
-        h1 {
-            font-size: 32px;
-            text-align: center;
-        }
+## Overview
 
-        .resume-link {
-            text-align: center;
-            margin-top: 40px;
-        }
+This project is built using HTML, CSS, and possibly other technologies/frameworks (mention them if applicable). The primary purpose of this repository is to showcase my skills, experiences, and projects in a digital format.
 
-        .resume-link a {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
+## Website Preview
 
-        .resume-link a:hover {
-            background-color: #2980b9;
-        }
-    </style>
-</head>
+![My Resume Preview](insert-image-url-here-if-available)
 
-<body>
-    <h1>My Resume</h1>
-    <div class="resume-link">
-        <p>View my resume <a href="https://my-resume-seven-neon.vercel.app" target="_blank">here</a>.</p>
-    </div>
-</body>
+## How to Use
 
-</html>
+To view the website:
+
+1. Simply click on [this link](https://my-resume-seven-neon.vercel.app).
+2. Explore the sections to learn more about my experiences, skills, and projects.
+
+## Contributing
+
+Contributions are not expected as this repository primarily serves as a showcase for my resume. However, if you have any suggestions or find any issues, feel free to create an issue or reach out to me.
+
+## Acknowledgments
+
+I'd like to acknowledge [Vercel](https://vercel.com/) for providing an excellent platform for hosting this website.
